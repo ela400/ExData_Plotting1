@@ -1,5 +1,5 @@
 # Exploratory Data Analysis - Project 1
-# Plot 2
+# Plot 2 
 
 # Load the file
 data <- read.csv("household_power_consumption.txt", 

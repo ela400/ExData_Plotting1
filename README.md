@@ -37,8 +37,6 @@ web site</a>:
 
 
 
-
-
 When loading the dataset into R, please consider the following:
 
 * The dataset has 2,075,259 rows and 9 columns. First
